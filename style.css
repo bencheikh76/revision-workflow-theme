@@ -14,3 +14,7 @@ body{
     align-items: center;
     height: 80vh;
 }
+.dark-mode{
+    background-color: rgb(42, 42, 42);
+    color: white;
+}
