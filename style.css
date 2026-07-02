@@ -1,0 +1,16 @@
+button{
+    background-color: burlywood;
+    color: black;
+    padding: 10px;
+}
+.card{
+    background-color: darkorange;
+    text-align: center;
+    padding: 20px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
